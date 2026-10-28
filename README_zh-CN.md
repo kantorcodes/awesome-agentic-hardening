@@ -164,6 +164,7 @@ Agentic AI 系统——基于 LLM 驱动的智能体，能够自主使用工具�
 | 资源 | 类型 | 描述 |
 |------|------|------|
 | [DRIFT](https://github.com/SaFoLab-WISC/DRIFT) | 📦 框架 | 动态规则隔离防御框架。安全规划器构建最小函数轨迹，动态验证器监控偏离，注入隔离器从记忆流中屏蔽冲突指令。在 AgentDojo 和 ASB 上验证有效。（UW-Madison，NeurIPS 2025） |
+| [HOL Guard](https://github.com/hashgraph-online/hol-guard) | 🔧 工具 | 面向受支持 AI 编码智能体操作的开源本地策略与审批工具，支持操作记录以及插件和 MCP 配置检查。 |
 | [Lasso Security](https://www.lasso.security/) | 🔧 工具 | Agentic AI SaaS 可观测性平台。提供智能体-工具交互持续发现、上下文感知风险评分，以及多智能体管线的实时行为异常告警。 |
 
 <sub>[回到顶部 ↑](#目录)</sub>
