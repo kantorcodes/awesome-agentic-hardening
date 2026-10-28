@@ -164,6 +164,7 @@ Covers behavioral anomaly detection, tool call chain auditing, agent behavior pr
 | Resource | Type | Description |
 |----------|------|-------------|
 | [DRIFT](https://github.com/SaFoLab-WISC/DRIFT) | 📦 Framework | Dynamic rule-based isolation framework for securing LLM agents. Secure Planner constructs minimal function trajectories, Dynamic Validator monitors deviations, and Injection Isolator masks conflicting instructions from memory. Validated on AgentDojo and ASB. (UW-Madison, NeurIPS 2025) |
+| [HOL Guard](https://github.com/hashgraph-online/hol-guard) | 🔧 Tool | Open-source local policy and approval controls for supported AI coding-agent actions, with operation receipts and plugin/MCP configuration checks. |
 | [Lasso Security](https://www.lasso.security/) | 🔧 Tool | SaaS observability layer for agentic AI. Provides continuous discovery of agent-tool interactions, context-aware risk scoring, and real-time behavioral anomaly alerting across multi-agent pipelines. |
 
 <sub>[Back to top ↑](#contents)</sub>
